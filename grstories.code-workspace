@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"pythonPath": "./../telegram/bin/python",
+		}
+	],
+	"settings": {
+		"workbench.editor.autoLockGroups": {
+			"sqlite-viewer.view": true
+		}
+	}
+}
